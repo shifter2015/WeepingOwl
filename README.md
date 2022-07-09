@@ -1,4 +1,4 @@
-<h1 align="center">Project WeepingOwl</h1>
+<h1 align="center">WeepingOwl</h1>
 <p align="center">
   <img src="https://i.imgur.com/SDMAq9U.png" />
 </p>
